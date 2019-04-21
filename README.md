@@ -32,7 +32,7 @@ git clone https://github.com/mrdeepeshkumar/Telecom_Churn_prediction Use cd to n
 
 Launch Jupyter by entering 
 
-## Problem understanding
+## Steps
 * Understanding the business objective
 * Data cleaning and preparation
 * Preprocessing steps
